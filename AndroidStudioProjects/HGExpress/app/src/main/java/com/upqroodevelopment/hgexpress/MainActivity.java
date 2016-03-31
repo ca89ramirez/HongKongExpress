@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         int a=4;
         int b=30;
         String c1 = "Luis";
+        String c2 = "Hola";
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
